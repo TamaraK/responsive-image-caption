@@ -46,7 +46,7 @@ p {
 }
 
 figcaption {
-  background-color: rgba(0, 0, 0, .3);
+  background-color: #e2e2e2;
   padding-left: 1em;
 }
 
@@ -78,6 +78,7 @@ figcaption {
     max-width: 400px;
     border-radius: .5em;
     margin: 1rem 0 0 0;
+    background-color: rgba(0, 0, 0, .3);
   }
 
 }
